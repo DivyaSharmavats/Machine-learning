@@ -8,7 +8,7 @@ Original file is located at
 
 importing dependies
 """
-
+#i need to change this 
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
